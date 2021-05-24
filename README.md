@@ -7,6 +7,6 @@
 
 Uses the latest `cimg/node:lts` as a base, with OpenJDK 8 and Firebase tools. This image is auto-updated when the base image changes.
 
-![Docker][./docs/moby-logo.png]
+<img src="./docs/moby-logo.png" alt="Docker" width="200"/>
 ❤️
-![CircleCI][./docs/circleci-logo.png]
+<img src="./docs/circleci-logo.jpeg" alt="CircleCI" width="200"/>
